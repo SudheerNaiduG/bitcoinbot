@@ -1,0 +1,7 @@
+asyncio
+selenium
+bs4
+pyrogram
+tgcrypto
+requests
+
